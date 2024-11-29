@@ -1,10 +1,14 @@
 # DSA_Project
-In order to play the game open the link in Drive Link folder and download MAMU Games.zip folder extract the folder and open it and open Escape The Algorithm application and Enjoy!
+To play the game:
+  1.Open the Drive Link folder and download the MAMU Games.zip file.
+  2.Extract the downloaded folder.
+  3.Open the extracted folder and launch the Escape The Algorithm application.
+  4.Enjoy the game!
 
-If you want the codes or want to create a similar game with your own touches open link in Drive Link folder and download DSA Project.zip folder. Extract folder and open Unity Hub make sure the unity editor version you're using is not before 6000.0.23f1 add the extracted DSA Project folder to Unity Hub. open it and make your desired changes
 
-TEAM MEMBERS:
-Mahad Ahmed Dharejo CT-23052
-Maheen Shakeel CT-23064
-Muhammad Usman Sheikh CT-23078
-Araiz Adnan Qureshi CT-23079
+If you want to access the code or create a similar game with your own modifications:
+  1.Open the Drive Link folder and download the DSA Project.zip file.
+  2.Extract the folder and open Unity Hub.
+  3.Ensure the Unity Editor version you're using is 6000.0.23f1 or later.
+  4.Add the extracted DSA Project folder to Unity Hub.
+  5.Open the project and make your desired changes.
